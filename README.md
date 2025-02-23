@@ -1,3 +1,3 @@
 # Mine-Demo
 This Is demo
-Author - Pranav
+Author - Pranav Bhosale
